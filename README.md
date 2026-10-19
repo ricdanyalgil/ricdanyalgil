@@ -22,7 +22,7 @@ Today I run **The Danyalgil Company** and **blue·auth**, where a document signe
 
 ## Recognition
 
-| Year | |
+| Year | Recognition |
 |:---:|---|
 | **2026** | **Portugal Fintech Report 2026** · blue·auth featured for its impact and innovation |
 | **2026** | **Rising UP in Spain** · blue·auth selected by ICEX / Invest in Spain for its Spanish soft-landing |
@@ -66,7 +66,7 @@ The engineering company behind blue·auth and KULE360, founded with my brother T
 
 ## Journey
 
-| | Role | |
+| When | Role | Focus |
 |:---:|---|---|
 | **2026 →** | **PhD Researcher, Informatics** · University of Minho (ALGORITMI / LASI) | Auditable, verifiable AI for cyber-physical systems |
 | **2025 →** | **CEO** · blue·auth | Qualified signatures, blockchain-anchored evidence, MCP server for AI agents |
@@ -79,7 +79,7 @@ The engineering company behind blue·auth and KULE360, founded with my brother T
 
 ## Open source
 
-| | Project | |
+| | Project | What it does |
 |:---:|---|---|
 | 🔏 | [**n8n-nodes-blueauth**](https://github.com/ricdanyalgil/n8n-nodes-blueauth) | Official blue·auth node for document-signing workflows in n8n |
 | 🧩 | [**blueauth-gemini-extension**](https://github.com/ricdanyalgil/blueauth-gemini-extension) | blue·auth signing in Gemini CLI through MCP |
@@ -99,7 +99,7 @@ Blockchain makes a record immutable, but not correct: a false sensor reading anc
 
 ## Education & certifications
 
-| | |
+| Credential | Issuer |
 |---|---|
 | 🎓 **PhD in Informatics** (in progress) | University of Minho, 2026 → |
 | 🎓 **MSc, Innovation & Development** | UNIFG, Brazil, 2019 · 18.66 / 20 |
@@ -117,7 +117,7 @@ Blockchain makes a record immutable, but not correct: a false sensor reading anc
 
 <sub>Seventeen years shipping across web, native mobile, cloud, embedded and security.</sub>
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,java,kotlin,swift,dart,cpp,c,cs,php,bash,solidity&perline=15" height="36" alt="Languages" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,vite,redux,html,css&perline=15" height="36" alt="Frontend" /> |
