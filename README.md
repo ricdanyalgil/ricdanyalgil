@@ -73,11 +73,21 @@ My PhD is built around **KULE360**: how a physical safety infrastructure in publ
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,firebase,aws,docker,linux,git&theme=dark" alt="Stack" />
-</p>
+<sub>Fifteen years shipping across web, native mobile, cloud, embedded and security.</sub>
 
-<sub>Also: Claude Code, MCP, n8n, Kali Linux, blockchain anchoring and timestamping.</sub>
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,java,kotlin,swift,dart,cpp,c,cs,php,bash,solidity&perline=15" height="36" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,vite,redux,html,css&perline=15" height="36" alt="Frontend" /> |
+| **Mobile & desktop** | <img src="https://skillicons.dev/icons?i=swift,kotlin,flutter,dart,androidstudio,apple,electron,tauri&perline=15" height="36" alt="Mobile & desktop" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,bun,deno,fastapi,django,flask,spring,graphql&perline=15" height="36" alt="Backend" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch,kafka,rabbitmq,supabase,firebase,prisma&perline=15" height="36" alt="Data" /> |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel&perline=15" height="36" alt="Cloud" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,gitlab,jenkins,nginx,grafana,prometheus&perline=15" height="36" alt="DevOps" /> |
+| **AI & ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&perline=15" height="36" alt="AI & ML" /> |
+| **Security & hardware** | <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,wasm,arduino,raspberrypi,ipfs,git&perline=15" height="36" alt="Security & hardware" /> |
+
+<sub>Also: Claude Code, MCP, n8n, LLM agents and evals, eIDAS qualified signatures, blockchain anchoring and timestamping.</sub>
 
 <br>
 
