@@ -89,9 +89,18 @@ My PhD is built around **KULE360**: how a physical safety infrastructure in publ
 
 <sub>Also: Claude Code, MCP, n8n, LLM agents and evals, eIDAS qualified signatures, blockchain anchoring and timestamping.</sub>
 
-<br>
+## Scoreboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricdanyalgil&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&title_color=1E5EFF&icon_color=1E5EFF" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricdanyalgil&layout=compact&hide_border=true&theme=transparent&title_color=1E5EFF" height="160" alt="Top languages" />
+
+<img src="https://github-trophies.vercel.app/?username=ricdanyalgil&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub trophies" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ricdanyalgil&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github&title_color=1E5EFF&icon_color=1E5EFF&ring_color=1E5EFF" height="165" alt="GitHub stats and rank" />
+<img src="https://streak-stats.demolab.com/?user=ricdanyalgil&hide_border=true&background=00000000&ring=1E5EFF&fire=1E5EFF&currStreakLabel=1E5EFF" height="165" alt="Contribution streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricdanyalgil&layout=compact&hide_border=true&theme=transparent&langs_count=10&title_color=1E5EFF" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ricdanyalgil&theme=github_dark&utcOffset=0" height="165" alt="Productive time" />
+
 </div>
