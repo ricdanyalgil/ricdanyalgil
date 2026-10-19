@@ -6,6 +6,8 @@
 
 [![danyalgil.com](https://img.shields.io/badge/danyalgil.com-0B1F3A?style=flat-square&logo=googlechrome&logoColor=white)](https://danyalgil.com)
 [![blueauth.co](https://img.shields.io/badge/blueauth.co-1E5EFF?style=flat-square&logo=letsencrypt&logoColor=white)](https://blueauth.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricdanyalgil)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9833--097X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9833-097X)
 [![Email](https://img.shields.io/badge/ricdanyalgil@gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:ricdanyalgil@gmail.com)
 
 </div>
