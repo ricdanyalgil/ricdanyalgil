@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5EFF&height=140&section=header&text=Ricardo%20Danyalgil%20Junior&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=Digital%20identity%20%C2%B7%20Security%20%C2%B7%20AI%20agents&descSize=16&descAlignY=72" width="100%" alt="Ricardo Danyalgil Junior" />
 
-**Founder of [The Danyalgil Company](https://danyalgil.com)** · [blue·auth](https://blueauth.co) · KULE360® · PhD candidate
+**Founder of [The Danyalgil Company](https://danyalgil.com)** · [blue·auth](https://blueauth.co) · KULE360® · PhD researcher, University of Minho
 
 [![danyalgil.com](https://img.shields.io/badge/danyalgil.com-0B1F3A?style=flat-square&logo=googlechrome&logoColor=white)](https://danyalgil.com)
 [![blueauth.co](https://img.shields.io/badge/blueauth.co-1E5EFF?style=flat-square&logo=letsencrypt&logoColor=white)](https://blueauth.co)
