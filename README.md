@@ -98,7 +98,7 @@ My PhD is built around **KULE360**: how a physical safety infrastructure in publ
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ricdanyalgil&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github&title_color=1E5EFF&icon_color=1E5EFF&ring_color=1E5EFF" height="165" alt="GitHub stats and rank" />
-<img src="https://streak-stats.demolab.com/?user=ricdanyalgil&hide_border=true&background=00000000&ring=1E5EFF&fire=1E5EFF&currStreakLabel=1E5EFF" height="165" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=ricdanyalgil&theme=github-dark-blue&hide_border=true&background=00000000&ring=1E5EFF&fire=1E5EFF&currStreakLabel=1E5EFF" height="165" alt="Contribution streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricdanyalgil&layout=compact&hide_border=true&theme=transparent&langs_count=10&title_color=1E5EFF" height="165" alt="Top languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ricdanyalgil&theme=github_dark&utcOffset=0" height="165" alt="Productive time" />
