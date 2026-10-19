@@ -12,7 +12,11 @@
 
 <br>
 
-Engineer with fifteen years across Brazil and Europe. I build the infrastructure that lets a document signed online carry the same weight as the original on paper: qualified signatures under eIDAS, proof of integrity, and identity you can verify. My research and my companies work on the same question, from two ends.
+I have been shipping software for **seventeen years**: lead developer in Recife, then CTO, CEO, and now **PhD researcher in Informatics at the University of Minho**. Along the way, 53 systems delivered for state and federal bodies under strict audit rules, **7 patented products** and **60+ KULE360 towers** installed across markets.
+
+Today I run **The Danyalgil Company** and **blue·auth**, where a document signed online carries the same legal weight as the paper original. My PhD asks the question underneath both: *when can data captured by a machine be trusted as evidence?*
+
+> 💡 The first KULE360 was a ten-metre tower in front of a university arts centre in Recife, in 2016. Ten years and one patent later, it is the testbed of my doctoral thesis.
 
 <br>
 
@@ -23,6 +27,9 @@ Engineer with fifteen years across Brazil and Europe. I build the infrastructure
 | **2026** | **Portugal Fintech Report 2026** · blue·auth featured for its impact and innovation |
 | **2026** | **Rising UP in Spain** · blue·auth selected by ICEX / Invest in Spain for its Spanish soft-landing |
 | **2025** | **INNCyber Innovation Hub, 3rd place, Startups** · final at the INNCyber Summit, Portuguese Air Force HQ, Lisbon |
+| **2022** | **Winner, Agrotech Challenge** · Fundão |
+| **PT 119572** | **Patent** · modular integrated monitoring and security tower (KULE360), INPI Portugal |
+| **DIRPA-PQ006** | **Industrial design** · modular self-service terminal, INPI Brazil |
 
 ## Building
 
@@ -39,7 +46,7 @@ Sign, identify, preserve and prove documents online with legal value across the 
 <td width="50%" valign="top">
 
 ### KULE360®
-Modular public-safety tower: cameras, long-range lighting, emergency call and drone patrols in a single fibreglass column, assembled in four hours. First tower in 2016 at UFPE, Recife; in operation with municipalities and companies in Brazil. Also the subject of my doctoral research.
+Modular public-safety tower: cameras, long-range lighting, emergency call and drone patrols in a single fibreglass column, assembled in four hours. First tower in 2016 at UFPE, Recife; in operation with municipalities and companies in Brazil. Patent PT 119572 and the testbed of my PhD.
 
 <sub>[danyalgil.com](https://danyalgil.com)</sub>
 
@@ -57,6 +64,19 @@ The engineering company behind blue·auth and KULE360, founded with my brother T
 </tr>
 </table>
 
+## Journey
+
+| | Role | |
+|:---:|---|---|
+| **2026 →** | **PhD Researcher, Informatics** · University of Minho (ALGORITMI / LASI) | Auditable, verifiable AI for cyber-physical systems |
+| **2025 →** | **CEO** · blue·auth | Qualified signatures, blockchain-anchored evidence, MCP server for AI agents |
+| **2025 →** | **IT Business Partner** · CyberX | Private EU-resident LLM platform on Azure, OSINT and NLP pipelines |
+| **2025 →** | **Business Mentor** · Nova SBE Haddad Entrepreneurship Institute | |
+| **2023 →** | **CEO & Co-Founder** · The Danyalgil Company | KULE360, blue·auth, Digital Product Passports |
+| 2017 – 2023 | **Researcher** · Federal University of Pernambuco | Where KULE360 was born |
+| 2015 – 2019 | **Chief IT Officer** · BankSystem | Led R&D to six patented products |
+| 2009 – 2015 | **CTO** · BS Software Builder | 53 systems for state and federal government |
+
 ## Open source
 
 | | Project | |
@@ -69,11 +89,33 @@ The engineering company behind blue·auth and KULE360, founded with my brother T
 
 ## Research
 
-My PhD is built around **KULE360**: how a physical safety infrastructure in public space can produce evidence people can trust. That ties it to the rest of my work on **digital identity and trust**: qualified electronic signatures, eIDAS and Regulation (EU) 2024/1183, the EU Digital Identity Wallet, and proof of integrity.
+**PhD in Informatics** · University of Minho · supervised by Prof. José Machado and Prof. José Luís Reis
+
+**An Operational Evidence Model for Cyber-Physical Information Systems**
+
+Blockchain makes a record immutable, but not correct: a false sensor reading anchored on a ledger is still false, only now it is permanent. My thesis proposes a model that gives every record captured at the edge a machine-checkable evidential status *before* it reaches a ledger, as an OWL 2 ontology aligned with W3C PROV-O. It will be evaluated for twelve months on the patented KULE360 tower, in response to the EU AI Act duties on record-keeping.
+
+<sub>Design Science Research · Provenance by Design · Edge computing · DLT · Explainable AI · EU AI Act</sub>
+
+## Education & certifications
+
+| | |
+|---|---|
+| 🎓 **PhD in Informatics** (in progress) | University of Minho, 2026 → |
+| 🎓 **MSc, Innovation & Development** | UNIFG, Brazil, 2019 · 18.66 / 20 |
+| 🎓 **MBA, Business & Entrepreneurship** | Federal University of Pernambuco, 2017 |
+| 🎓 **BSc, Internet Systems** | FICR, Recife, 2014 |
+| 📜 **Certified ScrumMaster** | Scrum Alliance |
+| 📜 **Genetec Security Center** | Genetec |
+| 📜 **Intel IT Administration** | Intel |
+| 📜 **Leader Coach · Behavioural Analyst** | |
+| 📜 **Green Economy Indicators** (advanced) | |
+
+<sub>Teaching Blockchain & Web3 in the MSc in Computer Engineering at ISLA Gaia (2026–27). Portuguese (native), English (C1), Italian (advanced), Spanish.</sub>
 
 ## Stack
 
-<sub>Fifteen years shipping across web, native mobile, cloud, embedded and security.</sub>
+<sub>Seventeen years shipping across web, native mobile, cloud, embedded and security.</sub>
 
 | | |
 |---|---|
