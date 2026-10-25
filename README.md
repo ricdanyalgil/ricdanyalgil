@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5EFF&height=140&section=header&text=Ricardo%20Danyalgil%20Junior&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=Senior%20AI%20Engineer%20%C2%B7%20LLMs%2C%20RAG%2C%20Agents%20%C2%B7%20React%20%2F%20TypeScript%20%C2%B7%20Python&descSize=16&descAlignY=72" width="100%" alt="Ricardo Danyalgil Junior" />
 
-**Senior AI Engineer & Engineering Lead** · Porto, Portugal · EU citizen · open to remote and to relocation (UAE, Qatar)
+**Senior AI Engineer & Engineering Lead** · based in Porto, Portugal · open to remote and to relocation (UAE, Qatar)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricdanyalgil)
 [![Email](https://img.shields.io/badge/ricardo@danyalgil.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:ricardo@danyalgil.com)
@@ -52,7 +52,7 @@ I build AI products that run in production, and I still write the code. Most of 
 | 2023 → | **Founder & Lead Engineer** · The Danyalgil Company (blue·auth) |
 | 2022 | Moved to Portugal at the invitation of the Municipality of Fundão to set up its blockchain programme |
 | 2015 – 2019 | **CTO & Head of R&D** · BankSystem, Brazil · about 60 people across several Scrum teams; clients included Bradesco, Banco do Brasil and federal government bodies |
-| 2009 – 2015 | **Co-Founder & Lead Developer** · BS Software Builder · systems for state and federal public bodies |
+| 2009 – 2015 | **Co-Founder & Lead Developer** · BS Software Builder · systems for state and federal public bodies · acquired by BankSystem in 2015 |
 
 **Education:** PhD candidate in Informatics, University of Minho (auditable AI) · MSc, Innovation and Development · Certified ScrumMaster<br>
 **Languages:** Portuguese (native), English (C1), Italian, Spanish
