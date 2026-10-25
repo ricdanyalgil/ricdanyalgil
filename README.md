@@ -24,7 +24,9 @@ I build AI products that run in production, and I still write the code. Most of 
 - **The O**, an OSINT platform of 21 containerised services: NLP pipelines (multilingual sentiment, spaCy NER, OCR) and a React analyst UI, with an LLM client that falls back between providers.
 - **MailX**, email marketing and phishing simulation in English, Portuguese and Arabic (RTL).
 
-**At blue·auth**, my own product: document signing and digital evidence on TypeScript, React and Firebase, with a remote **MCP server** so AI agents can sign and verify documents while a person approves every write.
+**At blue·auth**, my own product: I built it because signing contracts and internal documents was slow and legally fragile. It issues eIDAS-qualified signatures, connects to the Portuguese state ID (Chave Móvel Digital) and meets all 24 of ARTE's integration guidelines. 61 institutions and 5,400+ users rely on it. TypeScript, React and Firebase, plus a remote **MCP server** so AI agents can sign and verify documents while a person approves every write.
+
+**Belka**, practice management for Portuguese law firms, in pilot with a practising lawyer: an AI assistant whose every action is validated, authorised and audited in one transaction, deadline extraction from court letters, and legal research that checks citations against official sources. Next.js, Cloud Run, Firestore, 1,800+ automated tests.
 
 ## Open source
 
