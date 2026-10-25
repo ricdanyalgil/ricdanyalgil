@@ -32,6 +32,7 @@ I build AI products that run in production, and I still write the code. Most of 
 
 | Project | What it does |
 |---|---|
+| [**cite-or-abstain**](https://github.com/ricdanyalgil/cite-or-abstain) | Qwen3-1.7B fine-tuned on a 16 GB Mac (LoRA SFT + GRPO, MLX) to answer only with a verbatim quote or abstain. Hallucinations from 56.5% to 5.5% on 400 held-out questions |
 | [**n8n-nodes-blueauth**](https://github.com/ricdanyalgil/n8n-nodes-blueauth) | n8n community node for document-signing workflows (TypeScript, npm) |
 | [**blueauth-gemini-extension**](https://github.com/ricdanyalgil/blueauth-gemini-extension) | blue·auth signing in Gemini CLI through MCP |
 | [**VozTTY**](https://github.com/ricdanyalgil/VozTTY) | Local voice dictation for macOS terminals and VS Code, reviewed before anything is sent (Swift) |
