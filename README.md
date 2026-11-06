@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:1E5EFF&height=140&section=header&text=Ricardo%20Danyalgil%20Junior&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=Senior%20AI%20Engineer%20%C2%B7%20LLMs%2C%20RAG%2C%20Agents%20%C2%B7%20React%20%2F%20TypeScript%20%C2%B7%20Python&descSize=16&descAlignY=72" width="100%" alt="Ricardo Danyalgil Junior" />
 
-**Senior AI Engineer & Engineering Lead** · based in Porto, Portugal · open to remote and to relocation (UAE, Qatar)
+**Senior AI Engineer & Engineering Lead** · based in Porto, Portugal 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricdanyalgil)
 [![Email](https://img.shields.io/badge/ricardo@danyalgil.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:ricardo@danyalgil.com)
